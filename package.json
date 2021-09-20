@@ -1,0 +1,24 @@
+{
+  "name": "test-jira-automation",
+  "version": "1.0.0",
+  "description": "addadadadad",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test-jira-automation/test-jira-automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/test-jira-automation/test-jira-automation/issues"
+  },
+  "homepage": "https://github.com/test-jira-automation/test-jira-automation#readme"
+}
